@@ -1,4 +1,4 @@
-# MC LEGEND - RP GRIND GAME v1.0 💸
+# MC LEGEND - RP GRIND GAME v2.1 💸
 
 A text-based RP game where you grind from broke to $2000.
 
@@ -27,6 +27,8 @@ Start with $300 and grind your way to **$2000** to win.
 | 6 | Quit / Delete Save |
 | 7 | Organization |
 | 8 | Sleep (Restore Energy) |
+| 9 | Game info |
+| 10| open laptop |
 
 ## ⚡ Systems
 
@@ -34,8 +36,10 @@ Start with $300 and grind your way to **$2000** to win.
 - **Wanted System:** 0-3 stars, 3 = police after you
 - **HP System:** Die if 0 HP, buy medkits in shop
 - **Save System:** Auto saves your progress
-
+-**Secret jobs:** join secret jobs like the FBI or be a HACKER(risky)
+-**Banning system:** don't use dev cheat codes or cheat codes you might get banned and your progress can be deleted
 ## 🏆 Win / Lose
+-**Police Chase:** have you reach wanted level 3 thinking your done for? well Lucky for you, police chase is ADDED now it's based on your luck
 
 **WIN:** 
 -Reach $2000 = VICTORY
