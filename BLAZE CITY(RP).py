@@ -147,6 +147,7 @@ else:
                 print("A REAL NAME!")
                 time.sleep(1)
                 clear()
+    
             else:
                 if is_banned(name):
                 	clear()
@@ -536,7 +537,7 @@ while loop:
                     		print("MONEY!")
                     		print("don't use this web\nEVERY again")
                     		money += 400
-                    		cheat += 10
+                    		cheat += 6
                     		time.sleep(2)
                     		
                     elif search.lower() == "system.exe":
