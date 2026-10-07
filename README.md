@@ -33,14 +33,20 @@ Start with $300 and grind your way to **$2000** to win.
 ## ⚡ Systems
 
 - **Energy System:** Work 5x = tired, must sleep
-- **Wanted System:** 0-3 stars, 3 = police after you
-- **HP System:** Die if 0 HP, buy medkits in shop
-- **Save System:** Auto saves your progress
--**Secret jobs:** join secret jobs like the FBI or be a HACKER(risky)
--**Banning system:** don't use dev cheat codes or cheat codes you might get banned and your progress can be deleted
-## 🏆 Win / Lose
--**Police Chase:** have you reach wanted level 3 thinking your done for? well Lucky for you, police chase is ADDED now it's based on your luck
 
+- **Wanted System:** 0-3 stars, 3 = police after you
+
+- **HP System:** Die if 0 HP, buy medkits in shop
+
+- **Save System:** Auto saves your progress
+
+- **Secret jobs:** join secret jobs like the FBI or be a HACKER(risky)
+
+- **Banning system:** don't use dev cheat codes or cheat codes you might get banned and your progress can be deleted
+
+- **police chase:** have you reach wanted level 3 thinking your done for? well lucky for you police chase is added,now it's based on your luck(if you have)
+
+## 🏆 Win / Lose
 **WIN:** 
 -Reach $2000 = VICTORY
 
